@@ -7,14 +7,16 @@ import {
   SectionTitle,
 } from "../../styles/GlobalComponents";
 import Button from "../../styles/GlobalComponents/Button";
-import { LeftSection } from "./HeroStyles";
+import { LeftSection, Image } from "./HeroStyles";
 
 const Hero = () => (
   <Section row nopadding>
     <LeftSection>
       <SectionTitle main center>
+        <Image src="./images/kosoko.jpeg" alt="" />
+        <br />
         Welcome To <br />
-        Ukaegbu, Albert Nnaji Portfolio
+        Ogbonna, Okoh Godwin Portfolio
       </SectionTitle>
       <SectionText>
         A Front-End Web Developer with professional experience developing

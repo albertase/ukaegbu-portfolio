@@ -20,11 +20,11 @@ const Footer = () => {
       <LinkList>
         <LinkColumn>
           <LinkTitle>Call</LinkTitle>
-          <LinkItem href="tel:08162102937">+2348162102937</LinkItem>
+          <LinkItem href="tel:08162102937">+2347032092424</LinkItem>
         </LinkColumn>
         <LinkColumn>
           <LinkTitle>Email</LinkTitle>
-          <LinkItem href="mailto:albertukaegbu@gmail.com">
+          <LinkItem href="mailto:ogbonna-o@gmail.com">
             albertukaegbu@gmail.com
           </LinkItem>
         </LinkColumn>
@@ -34,13 +34,13 @@ const Footer = () => {
           <Slogan>Innovating one project at a time</Slogan>
         </CompanyContainer>
         <SocialContainer>
-          <SocialIcons href="https://github.com/albertase">
+          <SocialIcons href="https://github.com/O-Godwin">
             <AiFillGithub size="3rem" />
           </SocialIcons>
-          <SocialIcons href="https://www.linkedin.com/in/ukaegbu-albert-86b221208/">
+          <SocialIcons href="https://www.linkedin.com/feed/">
             <AiFillLinkedin size="3rem" />
           </SocialIcons>
-          <SocialIcons href="https://twitter.com/UkaegbuAlbert">
+          <SocialIcons href="https://twitter.com">
             <AiFillTwitterCircle size="3rem" />
           </SocialIcons>
         </SocialContainer>

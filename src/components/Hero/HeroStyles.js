@@ -1,5 +1,12 @@
 import styled from 'styled-components';
 
+
+export const Image = styled.img`
+  width: 40%;
+  height: 850px;
+  background-position: cover;
+  border-radius: 10%;
+`
 export const LeftSection = styled.div`
   width: 100%;
   @media ${(props) => props.theme.breakpoints.sm} {
